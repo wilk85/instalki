@@ -13,7 +13,7 @@ tt = 'https://binaries.openttd.org/releases/1.8.0/openttd-1.8.0-windows-win64.ex
 # pobieram pliki wraz z ich rozszerzeniami
 def splitter(url):
     # ścieżka do pulpitu
-    desktop = os.path.join(os.environ['USERPROFILE'], 'Desktop')
+    desktop = os.path.join(os.environ['HOMEPATH'], 'Desktop')
     response = urlopen(url)
     # pobiera pełną ścieżkę razem z rozszerzeniem
     basename = response.url

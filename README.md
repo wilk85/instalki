@@ -1,5 +1,6 @@
+# paczka instalacyjna
 Wywołanie pliku standardowo dla pythona - python one.py
-# nie przyjmuje żadnych argumentów
+ nie przyjmuje żadnych argumentów
 
 Jest to skrypt z paczką instalacyjną automatyzujące jednym kliknięciem pobieranie
     kilku plików potrzebnych do instalowania po czystej instalacji windows

@@ -2,8 +2,9 @@
 Wywołanie pliku standardowo dla pythona - python one.py
  nie przyjmuje żadnych argumentów
 
-Jest to skrypt z paczką instalacyjną automatyzujące jednym kliknięciem pobieranie
+Jest to skrypt z paczką instalacyjną, automatyzuje jednym kliknięciem pobieranie
     kilku plików potrzebnych do instalowania po czystej instalacji windows
+    ilość plików dowolna - do modyfikacji, wpływa na długość wykonywania się skryptu
     
 Do użytku: wystarczy podać zmienną z bezpośrednim linkiem do pliku instalacyjnego
     # tinywall = http://tinywall.pados.hu/ccount/click.php?id=3
